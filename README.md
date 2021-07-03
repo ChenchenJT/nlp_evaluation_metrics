@@ -1,3 +1,7 @@
 # nlp_evaluation metrics
-The common evaluation metrics of NLP  
-NLP的通用评判标准
+The common evaluation metrics of NLP:  
+- F1
+- BLEU
+- ROUGE
+- METEOR
+- DISTINCT
