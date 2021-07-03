@@ -5,3 +5,4 @@ The common evaluation metrics of NLP:
 - ROUGE
 - METEOR
 - DISTINCT
+- MULTI_ACC
