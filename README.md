@@ -1,2 +1,3 @@
 # nlp_evaluation metrics
-NLP的通用评判标准(The common evaluation metrics of NLP)
+The common evaluation metrics of NLP  
+NLP的通用评判标准
